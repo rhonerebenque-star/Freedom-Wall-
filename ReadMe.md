@@ -16,11 +16,17 @@ REBENQUE, RHONE PAULENE P.<br>
 
 **PAHINA'T GUNITA (Freedom Wall App)** is a Java-based console
 application that allows users to anonymously express their thoughts
-through: - **Letters** - **Confessions** - **Rants**
+through: 
+- **Letters**
+- **Confessions**
+- **Rants**
 
 The system demonstrates core Object-Oriented Programming (OOP)
-principles such as: - **Encapsulation** - **Inheritance** -
-**Abstraction** - **Polymorphism**
+principles such as:
+- **Encapsulation**
+- **Inheritance**
+- **Abstraction**
+- **Polymorphism**
 
 ------------------------------------------------------------------------
 
@@ -30,7 +36,8 @@ removed using simple admin tools.
 ## 🚀 Features
 
 ✅ **Anonymous Posting**\
-Users may create posts of three types: - Letter\
+Users may create posts of three types: 
+- Letter\
 - Confession\
 - Rant
 
