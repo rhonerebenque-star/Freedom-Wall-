@@ -14,27 +14,21 @@ REBENQUE, RHONE PAULENE P.<br>
 
 <p align="center">
   <a href="#-overview">
-    <img src="https://img.shields.io/badge/📖_Overview-6b4f29?style=for-the-badge">
+    <img src="C:\Users\justi\OneDrive\Desktop\Final Proj\PIC\📖_Overview-6b4f29.svg">
   </a>
   <a href="#-key-features">
-    <img src="https://img.shields.io/badge/🚀_Features-8c6931?style=for-the-badge">
-  </a>
-  <a href="#-Tenology Used">
-    <img src="https://img.shields.io/badge🛠️_Technology Used-8c6931?style=for-the-badge">
+    <img src="C:\Users\justi\OneDrive\Desktop\Final Proj\🚀_Features-8c6931.svg">
   </a>
   <a href="#-program-structure">
-    <img src="https://img.shields.io/badge/📂_Program_Structure-d4a15f?style=for-the-badge">
+    <img src="C:\Users\justi\OneDrive\Desktop\Final Proj\📂_Program_Structure-d4a15f.svg">
   </a>
   <a href="#-how-to-run">
-    <img src="https://img.shields.io/badge/▶️_How_to_Run-e3b679?style=for-the-badge">
+    <img src="C:\Users\justi\OneDrive\Desktop\Final Proj\▶️_How_to_Run-e3b679.svg">
   </a>
   <a href="#-sample-output">
-    <img src="https://img.shields.io/badge/📸_Sample_Output-efcb9f?style=for-the-badge">
+    <img src="C:\Users\justi\OneDrive\Desktop\Final Proj\📸_Sample_Output-efcb9f.svg">
   </a>
-  <a href="#-author--acknowledgement">
-    <img src="https://img.shields.io/badge/👤_Author_Acknowledgement-f7e4c5?style=for-the-badge">
-  </a>
-</p>
+  <p>
 
 
 ------------------------------------------------------------------------
