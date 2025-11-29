@@ -19,8 +19,8 @@ REBENQUE, RHONE PAULENE P.<br>
   <a href="#-key-features">
     <img src="https://img.shields.io/badge/🚀_Features-8c6931?style=for-the-badge">
   </a>
-  <a href="#-tenology used">
-    <img src="tecnology used">
+  <a href="#-Tenology Used">
+    <img src=" https://img.shields.io/badge🛠️_Technology Used-8c6931?style=for-the-badge">
   </a>
   <a href="#-program-structure">
     <img src="https://img.shields.io/badge/📂_Program_Structure-d4a15f?style=for-the-badge">
