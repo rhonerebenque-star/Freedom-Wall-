@@ -34,7 +34,7 @@ REBENQUE, RHONE PAULENE P.<br>
 
 
 ------------------------------------------------------------------------
-
+<div align="Left">
 ## 📖 Overview
 
 **PAHINA'T GUNITA (Freedom Wall App)** 
@@ -171,3 +171,5 @@ Java OOP Project -- Freedom Wall System
 
 This project is for educational purposes. You may modify or improve it
 freely.
+
+<dev>
