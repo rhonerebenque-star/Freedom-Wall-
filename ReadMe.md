@@ -12,6 +12,8 @@ PANALIGAN, MICHAELA C.<br>
 REBENQUE, RHONE PAULENE P.<br>
 </div>
 
+------------------------------------------------------------------------
+
 <p align="center">
   <a href="#-overview">
     <img src="C:\Users\justi\OneDrive\Desktop\Final Proj\PIC\📖_Overview-6b4f29.svg">
