@@ -82,12 +82,16 @@ All posts stored in: `Freedom_Wall_posts.txt`
 Saved & loaded data: - ID - Type - Timestamp - Content\
 Includes escape-handling for pipes and backslashes.
 
+------------------------------------------------------------------------
+
 ## 🛠️ Technologies Used
 
 -   Java (Core)
 -   java.io -- file read/write
 -   java.time -- timestamps
 -   java.util -- collections & scanner
+
+  ------------------------------------------------------------------------
 
 ## 📂 Project Structure
 
@@ -99,6 +103,8 @@ FreedomWallApp.java\
 ├── Confession (subclass)\
 └── Rant (subclass)\
 Freedom_Wall_posts.txt (generated at runtime)
+
+------------------------------------------------------------------------
 
 ## ▶️ How to Run
 
@@ -113,9 +119,13 @@ Freedom_Wall_posts.txt (generated at runtime)
 Press Enter when prompted.\
 Type **YES** to continue or **NO** to exit.
 
+------------------------------------------------------------------------
+
 ## 🔐 Admin Mode
 
 When asked for password, enter: **ARIZONA_B**
+
+------------------------------------------------------------------------
 
 ## 🧩 OOP Concepts Used
 
@@ -133,6 +143,8 @@ When asked for password, enter: **ARIZONA_B**
 - Custom output per post type\
 - Overridden getType() methods
 
+------------------------------------------------------------------------
+
 ## 💾 Data Storage Format
 
 Each line inside `Freedom_Wall_posts.txt`:
@@ -140,6 +152,8 @@ Each line inside `Freedom_Wall_posts.txt`:
 `id|type|timestamp|content`
 
 Pipes (\|) and backslashes () are escaped properly.
+
+------------------------------------------------------------------------
 
 ## 📸 Sample Output
 
@@ -154,6 +168,8 @@ Pipes (\|) and backslashes () are escaped properly.
     5) Save & Exit
 
 Java OOP Project -- Freedom Wall System
+
+------------------------------------------------------------------------
 
 ## 📜 License
 
