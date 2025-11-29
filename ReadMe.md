@@ -40,9 +40,7 @@ REBENQUE, RHONE PAULENE P.<br>
 
 <table>
   <tr>
-    <!-- LEFT COLUMN -->
-    <td width="50%" valign="top">
-
+    
 <h3>PAHINA'T GUNITA (Freedom Wall App)</h3>
 <p>
 A Java-based console application that allows users to anonymously express  
@@ -55,11 +53,6 @@ their thoughts through:
   <li>Rants</li>
 </ul>
 
-    </td>
-
-    <!-- RIGHT COLUMN -->
-    <td width="50%" valign="top">
-
 <h3>Object-Oriented Programming Concepts</h3>
 <p>The system demonstrates core OOP principles such as:</p>
 
@@ -70,7 +63,6 @@ their thoughts through:
   <li>Polymorphism</li>
 </ul>
 
-    </td>
   </tr>
 </table>
 
