@@ -34,31 +34,28 @@ The system demonstrates core Object-Oriented Programming (OOP) principles such a
 
 ------------------------------------------------------------------------
 
-All posts are saved in a local .txt file and can be viewed, searched, 
-or removed using simple admin tools.
-
 ## 🚀 Features
 
-✅ **Anonymous Posting**\
+ **Anonymous Posting**\
 Users may create posts of three types: 
 - Letter\
 - Confession\
 - Rant
 
-✅ **Admin Tools**\
+ **Admin Tools**\
 Protected by password: `ARIZONA_B`\
 Admin features include: - View all posts (newest to oldest) 
 - Read a specific post
 - Delete a specific post
 - Delete all posts
 
-✅ **Search Function**\
+ **Search Function**\
 Case-insensitive keyword search.
 
-✅ **Automatic Saving**\
+ **Automatic Saving**\
 All posts stored in: `Freedom_Wall_posts.txt`
 
-✅ **Persistent Storage**\
+ **Persistent Storage**\
 Saved & loaded data: - ID - Type - Timestamp - Content\
 Includes escape-handling for pipes and backslashes.
 
