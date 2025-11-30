@@ -151,6 +151,16 @@ Java OOP Project -- Freedom Wall System
 
 ------------------------------------------------------------------------
 
+### Information Table
+
+| | Name | Role |
+|----------|----------|----------|
+| <img src="images/James.jpg" width="120">|Grecia, James Benedict P. | UI Designer / Tester   |
+|<img src="images/Micha.jpg" width="120">| Panaligan, Michaela C. | Developer     |
+|<img src="images/Rhone.jpg" width="120">| Rebenque, Rhone Paulene P. |  UI Designer / Tester    |
+
+------------------------------------------------------------------------
+
 ## 📜 License
 
 This project is for educational purposes. You may modify or improve it
