@@ -107,7 +107,7 @@ When asked for password, enter: **ARIZONA_B**
 ## 🧩 OOP Concepts Used
 
 **Encapsulation**
-- Private fields (id, content, timestamp)\
+- Private fields (id, content, timestamp)
 - Controlled access via getters/setters
 
 **Inheritance**
@@ -117,7 +117,7 @@ When asked for password, enter: **ARIZONA_B**
 - Post is abstract; subclasses implement getType()
 
 **Polymorphism**
-- Custom output per post type\
+- Custom output per post type
 - Overridden getType() methods
 
 ------------------------------------------------------------------------
