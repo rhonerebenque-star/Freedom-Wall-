@@ -38,8 +38,8 @@ The system demonstrates core Object-Oriented Programming (OOP) principles such a
 
  **Anonymous Posting**\
 Users may create posts of three types: 
-- Letter\
-- Confession\
+- Letter
+- Confession
 - Rant
 
  **Admin Tools**\
