@@ -134,7 +134,8 @@ Pipes (\|) and backslashes () are escaped properly.
 
 ## 📸 Sample Output
 
-    === PAHINA'T GUNITA ===
+    ==== PAHINA'T GUNITA ====
+    
     Do you want to continue? YES or NO:
     ANSWER: yes
 
@@ -151,7 +152,7 @@ Java OOP Project -- Freedom Wall System
 ## 👤 Author & Acknowledgement
 
 ### Development
-Implemented a Java based project demonstrating OOP concepts, principles. It offers a secure platform where users can share thoughts, emotions, poems, or personal reflections, anonymously.
+Implemented a Java-based project demonstrating OOP concepts, principles. It offers a secure platform where users can anonymously share thoughts, emotions, poems, or personal reflections, anonymously.
 ### Acknowledgement
 Place holder for now
 
@@ -159,19 +160,18 @@ Place holder for now
 
 | | Name | Role |
 |----------|----------|----------|
-| <img src="images/James.jpg" width="120">|Grecia, James Benedict P. | Designer / Developer / Researcher / Examiner   |
-|<img src="images/Micha.jpg" width="120">| Panaligan, Michaela C. | Designer / Developer / Researcher / Examiner    |
-|<img src="images/Rhone.jpg" width="120">| Rebenque, Rhone Paulene P. | Designer / Developer / Researcher / Examiner  |
+|<img src="images/James.jpg" width="120">| Grecia, James Benedict P. | Designer / Developer / Researcher / Examiner |
+|<img src="images/Micha.jpg" width="120">| Panaligan, Michaela C. | Designer / Developer / Researcher / Examiner |
+|<img src="images/Rhone.jpg" width="120">| Rebenque, Rhone Paulene P. | Designer / Developer / Researcher / Examiner |
 
 ------------------------------------------------------------------------
 
 ## 📜 License
 
-This project is for educational purposes. You may modify or improve it
-freely.
+This project is for educational purposes. You may modify or improve it freely.
 
 ------------------------------------------------------------------------
 
-Thank you for opening up. Whether your words came from joy, pain, confusion, or hope, this space welcomes them all. Your story is safe and secured at pahina't guinita. goodbye!.
+Thank you for opening up. Whether your words come from joy, pain, confusion, or hope, this space welcomes them all. Your story is safe and secured at "Pahina't Guinita". goodbye!.
 
 <dev>
