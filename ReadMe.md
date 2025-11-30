@@ -151,13 +151,20 @@ Java OOP Project -- Freedom Wall System
 
 ------------------------------------------------------------------------
 
+## 👤 Author & Acknowledgement
+
+### Development
+Developed as a comprehensive Java educational project demonstrating OOP principles, design patterns, and game architecture.
+### Acknowledgement
+Place holder for now
+
 ### Information Table
 
 | | Name | Role |
 |----------|----------|----------|
-| <img src="images/James.jpg" width="120">|Grecia, James Benedict P. | UI Designer / Tester   |
-|<img src="images/Micha.jpg" width="120">| Panaligan, Michaela C. | Developer / Researcher      |
-|<img src="images/Rhone.jpg" width="120">| Rebenque, Rhone Paulene P. |  UI Designer / Tester    |
+| <img src="images/James.jpg" width="120">|Grecia, James Benedict P. | Designer / Developer / Researcher / Examiner   |
+|<img src="images/Micha.jpg" width="120">| Panaligan, Michaela C. | Designer / Developer / Researcher / Examiner    |
+|<img src="images/Rhone.jpg" width="120">| Rebenque, Rhone Paulene P. | Designer / Developer / Researcher / Examiner  |
 
 ------------------------------------------------------------------------
 
