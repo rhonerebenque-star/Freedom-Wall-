@@ -154,7 +154,7 @@ Java OOP Project -- Freedom Wall System
 ## 👤 Author & Acknowledgement
 
 ### Development
-Developed as a comprehensive Java educational project demonstrating OOP principles, design patterns, and game architecture.
+Implemented a Java based project demonstrating OOP concepts, principles. It offers a secure platform where users can share thoughts, emotions, poems, or personal reflections, anonymously.
 ### Acknowledgement
 Place holder for now
 
