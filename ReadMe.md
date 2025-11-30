@@ -173,4 +173,6 @@ Place holder for now
 This project is for educational purposes. You may modify or improve it
 freely.
 
+Thank you for opening up. Whether your words came from joy, pain, confusion, or hope, this space welcomes them all. Your story is safe here. Goodbye!
+
 <dev>
