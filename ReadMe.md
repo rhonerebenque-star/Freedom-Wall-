@@ -106,17 +106,17 @@ When asked for password, enter: **ARIZONA_B**
 
 ## 🧩 OOP Concepts Used
 
-**Encapsulation**\
+**Encapsulation**
 - Private fields (id, content, timestamp)\
 - Controlled access via getters/setters
 
-**Inheritance**\
+**Inheritance**
 - Letter, Confession, Rant inherit from Post
 
-**Abstraction**\
+**Abstraction**
 - Post is abstract; subclasses implement getType()
 
-**Polymorphism**\
+**Polymorphism**
 - Custom output per post type\
 - Overridden getType() methods
 
