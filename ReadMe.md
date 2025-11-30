@@ -87,7 +87,7 @@ Freedom_Wall_posts.txt (generated at runtime)
 
 **Compile:**
 
-    javac FreedomWallApp.java
+    java FreedomWallApp.java
 
 **Run:**
 
