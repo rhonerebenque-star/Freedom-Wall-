@@ -8,7 +8,7 @@ public class FreedomWallApp {
         Scanner scanner = new Scanner(System.in);
         while (true) {
             // Display the Freedom Wall header
-            System.out.println("\n=== PAHINA'T GUNITA ===");
+            System.out.println("\n==== PAHINA'T GUNITA ====");
             // Prompt to press Enter
             scanner.nextLine();  // Wait for user to press Enter
             // Now ask if they want to continue
