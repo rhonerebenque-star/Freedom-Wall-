@@ -86,7 +86,7 @@ class PahinatGunita {
                     System.out.println("\nSaved. Goodbye!");
                     return;
                 }
-                default -> System.out.println("\nInvalid option. Try again.");
+                default -> System.out.println("\nInvalid Option. Try again.");
             }
         }
     }
@@ -99,7 +99,7 @@ class PahinatGunita {
         System.out.print("\nChoice: ");
         String type = scanner.nextLine().trim();
 
-        System.out.println("\nEnter your post content (Press Enter Twice to finish the line.):");
+        System.out.println("\nEnter Your Post Content (Press Enter Twice to finish the line.):");
         StringBuilder sb = new StringBuilder();
         while (true) {
             String line = scanner.nextLine();
@@ -109,7 +109,7 @@ class PahinatGunita {
         String content = sb.toString().trim();
         
         if (content.isEmpty()) {
-            System.out.println("\nEmpty content. Post cancelled.");
+            System.out.println("\nEmpty Content. Post Cancelled.");
             return;
         }
 
@@ -120,26 +120,26 @@ class PahinatGunita {
             case "2" -> post = new Confession(id, content);
             case "3" -> post = new Rant(id, content);
             default -> {
-                System.out.println("Unknown type. Creating as Letter by default.");
+                System.out.println("Unknown Type. Creating as Letter by Default.");
                 post = new Letter(id, content);
             }
         }
 
         posts.add(post);
-        System.out.println("\nPosted anonymously as a " + post.getType() + " (id = " + post.getId() + ").");
+        System.out.println("\nPosted Anonymously as a " + post.getType() + " (id = " + post.getId() + ").");
     }
 
     private void viewAllPosts() {
-        System.out.print("\nEnter admin password: ");
+        System.out.print("\nEnter Admin Password: ");
         String pw = scanner.nextLine();
         // simple admin check for demo purposes
         if (!"ARIZONA_B".equals(pw)) {
-            System.out.println("Incorrect password.");
+            System.out.println("Incorrect Password.");
             return;
         }
         
         if (posts.isEmpty()) {
-            System.out.println("No posts yet.");
+            System.out.println("No Posts Yet.");
             return;
         }
 
@@ -162,9 +162,9 @@ class PahinatGunita {
     }
 
     private void searchPosts() {
-        System.out.print("Enter keyword to search: ");
+        System.out.print("Enter Keyword to Search: ");
         String kw = scanner.nextLine().trim().toLowerCase();
-        if (kw.isEmpty()) { System.out.println("No keyword."); return; }
+        if (kw.isEmpty()) { System.out.println("No Keyword."); return; }
 
         List<Post> found = new ArrayList<>();
         for (Post p : posts) {
@@ -172,42 +172,42 @@ class PahinatGunita {
         }
 
         if (found.isEmpty()) {
-            System.out.println("No posts matched \"" + kw + "\".");
+            System.out.println("No Posts Matched \"" + kw + "\".");
             return;
         }
 
-        System.out.println("Found " + found.size() + " posts:");
+        System.out.println("Found " + found.size() + " Posts:");
         found.stream().sorted(Comparator.comparing(Post::getTimestamp).reversed()).forEach(Post::displaySummary);
     }
 
    private void deletePost() {
-    System.out.print("\nEnter admin password: ");
+    System.out.print("\nEnter Admin Password: ");
     String pw = scanner.nextLine();
     // simple admin check for demo purposes
     if (!"ARIZONA_B".equals(pw)) {
-        System.out.println("Incorrect password.");
+        System.out.println("Incorrect Password.");
         return;
     }
-    System.out.println("\n1) Delete a specific post");
-    System.out.println("2) Delete all posts");
-    System.out.print("Choose an option: ");
+    System.out.println("\n1) Delete a Specific Post");
+    System.out.println("2) Delete All Posts");
+    System.out.print("Choose an Option: ");
     String choice = scanner.nextLine().trim();
     switch (choice) {
         case "1" -> {
-            System.out.print("Enter post id to delete: ");
+            System.out.print("Enter Post ID to Delete: ");
             try {
                 int id = Integer.parseInt(scanner.nextLine().trim());
                 boolean removed = posts.removeIf(p -> p.getId() == id);
-                System.out.println(removed ? "Post deleted." : "Post with that id not found.");
+                System.out.println(removed ? "Post Deleted." : "Post with that id not found.");
             } catch (NumberFormatException e) {
-                System.out.println("Invalid id.");
+                System.out.println("Invalid Id.");
             }
         }
         case "2" -> {
             posts.clear();
-            System.out.println("All posts deleted.");
+            System.out.println("All Posts Deleted.");
         }
-        default -> System.out.println("Invalid option.");
+        default -> System.out.println("Invalid Option.");
     }
 }
 
@@ -220,7 +220,7 @@ class PahinatGunita {
                 pw.println(p.getId() + "|" + p.getType() + "|" + p.getTimestamp().format(DateTimeFormatter.ISO_LOCAL_DATE_TIME) + "|" + safe);
             }
         } catch (IOException e) {
-            System.out.println("Failed to save posts: " + e.getMessage());
+            System.out.println("Failed to Save Posts: " + e.getMessage());
         }
     }
 
