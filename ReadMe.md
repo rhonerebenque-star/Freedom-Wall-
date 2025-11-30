@@ -175,6 +175,6 @@ freely.
 
 ------------------------------------------------------------------------
 
-Thank you for opening up. Whether your words came from joy, pain, confusion, or hope, this space welcomes them all. Your story is safe here. Goodbye!
+Thank you for opening up. Whether your words came from joy, pain, confusion, or hope, this space welcomes them all. Your story is safe and secured at pahina't guinita. goodbye!.
 
 <dev>
